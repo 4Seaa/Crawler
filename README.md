@@ -2,7 +2,7 @@
 
 ## Software requirement
 
-Docker 
+Docker and
 Composer
 
 ## Set up the development environment
